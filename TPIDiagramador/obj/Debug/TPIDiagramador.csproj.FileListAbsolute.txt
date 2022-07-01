@@ -1,0 +1,144 @@
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\bin\Debug\TPIDiagramador.exe.config
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\bin\Debug\TPIDiagramador.exe
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\bin\Debug\TPIDiagramador.pdb
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.Form1.resources
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.exe
+C:\Users\Usuario\Desktop\Universidad Tecnológica Nacional (UTN)\Tercer Cuatrimestre\Programación 3\TPIDiagramador\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\TPIDiagramador.exe.config
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\TPIDiagramador.exe
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.AssemblyReference.cache
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.Properties.Resources.resources
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.GenerateResource.cache
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.exe
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.AssemblyReference.cache
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.Form1.resources
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.Properties.Resources.resources
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.GenerateResource.cache
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.exe
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.exe.config
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.exe
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.pdb
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.exe.config
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.exe
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.pdb
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.AssemblyReference.cache
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.SuggestedBindingRedirects.cache
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.Form1.resources
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.Properties.Resources.resources
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.GenerateResource.cache
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.exe
+C:\Users\vivia\OneDrive\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Buffers.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Memory.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Json.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.ValueTuple.dll
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Buffers.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Memory.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Json.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\bin\Debug\System.ValueTuple.xml
+C:\Users\Fabian\Desktop\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.exe.config
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.exe
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\TPIDiagramador.pdb
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.Form1.resources
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.exe
+C:\Users\Usuario\Desktop\Fabi TPI\TPIFabiDiag1\TPIDiagramador2\TPIDiagramador\obj\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\TPIDiagramador.exe.config
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\TPIDiagramador.exe
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Buffers.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Memory.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Text.Json.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.ValueTuple.dll
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Buffers.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Memory.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Text.Json.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\bin\Debug\System.ValueTuple.xml
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.AssemblyReference.cache
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.Properties.Resources.resources
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.GenerateResource.cache
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CopyComplete
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.exe
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.pdb
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.FormPrincipal.resources
+C:\Users\Fabian\Desktop\TPIDiagramadorImagenFix\TPIDiagramador\obj\Debug\TPIDiagramador.FormAyuda.resources
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Buffers.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Memory.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Text.Json.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.ValueTuple.dll
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Buffers.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Memory.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Text.Json.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\bin\Debug\System.ValueTuple.xml
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.FormAyuda.resources
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.FormPrincipal.resources
+C:\Users\Fabian\Desktop\TPIDiagramador\TPIDiagramador\obj\Debug\TPIDiagramador.csproj.CopyComplete
